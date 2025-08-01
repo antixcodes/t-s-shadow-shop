@@ -1,7 +1,7 @@
 # Terms and Conditions
 Effective Date: 01-08-25
 
-Welcome to ShadowShop. These Terms and Conditions (“Terms”) govern your access to and use of our website www.shadowshop889.com and the purchase and use of website code and digital products available through our Site.
+Welcome to ShadowShop. These Terms and Conditions govern your access to and use of our website www.shadowshop889.com and the purchase and use of website code and digital products available through our Site.
 
 By accessing our Site or purchasing any Products, you agree to be bound by these Terms.
 
@@ -36,7 +36,7 @@ If you create an account, you are responsible for maintaining the confidentialit
 All Products are provided “as is” without warranties of any kind, either express or implied. We do not guarantee that our code will be error-free or compatible with all platforms or browsers.
 
 8. Limitation of Liability
-In no event shall [Your Website Name] be liable for any indirect, incidental, special, or consequential damages arising from the use or inability to use our Products, even if we have been advised of the possibility of such damages.
+In no event shall ShadowShop be liable for any indirect, incidental, special, or consequential damages arising from the use or inability to use our Products, even if we have been advised of the possibility of such damages.
 
 9. Modifications
 We reserve the right to update or modify these Terms at any time without prior notice. Continued use of the Site or Products after such changes constitutes your acceptance of the new Terms.
