@@ -1,7 +1,7 @@
 # Terms and Conditions
 Effective Date: 01-08-25
 
-Welcome to ShadowShop. These Terms and Conditions govern your access to and use of our website www.shadowshop889.com and the purchase and use of website code and digital products available through our Site.
+Welcome to ShadowShop. These Terms and Conditions govern your access to and use of our website https://rzp.io/rzp/Fpmhlu2o and the purchase and use of website code and digital products available through our Site.
 
 By accessing our Site or purchasing any Products, you agree to be bound by these Terms.
 
@@ -48,5 +48,5 @@ These Terms shall be governed by and construed in accordance with the laws of In
 If you have any questions or concerns about these Terms, please contact us at:
 
 📧 shadowshop889@gmail.com
-🌐 
+🌐 https://rzp.io/rzp/Fpmhlu2o
 
